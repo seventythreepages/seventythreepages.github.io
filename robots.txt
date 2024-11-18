@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://seventythreepages.github.io/seventythreepages_github_io_zp529_1.txt
+Sitemap: https://seventythreepages.github.io/seventythreepages_github_io_zp529_15.txt
+Sitemap: https://seventythreepages.github.io/seventythreepages_github_io_zp529_20.txt
+Sitemap: https://seventythreepages.github.io/seventythreepages_github_io_zp529_26.txt
+Sitemap: https://seventythreepages.github.io/seventythreepages_github_io_zp529_31.txt
+Sitemap: https://seventythreepages.github.io/seventythreepages_github_io_zp529_9.txt
